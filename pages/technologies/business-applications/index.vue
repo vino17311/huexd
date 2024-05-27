@@ -150,7 +150,7 @@
                 </div>
 
                 <div class="col-lg-4 mb-2">
-                    <div class="py-4 pl-4 bg-red"> <a href="/technologies/sap">SAP</a>
+                    <div class="py-4 pl-4 bg-red"> <a href="/technologies/sap">ERP</a>
                     </div>
                     <div class="w-100 p-3  bg-ash">
                         <p> We know SAP. Better than anyone else. So if it’s quality SAP talent you need, RED Global is
