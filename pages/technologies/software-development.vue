@@ -135,61 +135,55 @@
 
     <section class="c-section">
         <div class="container">
-            <div class="c-section-grid-head text-center md:text-left xl:text-center">
-                <h2 class="text-xl md:text-2xl xl:text-xl">Roles</h2>
-            </div>
-            <div class="c-section-grid-content">
-                <div class="c-section-grid-main c-content">
-                    <div class="c-accordion">
-                        <ul class="c-accordion-items js-accordion">
-                            <li class="c-accordion-item p-px-0 md:p-px-10 xl:p-px-96">
-                                <h5 class="c-accordion-item-title bg-gray-200 p-4 text-center font-bold">
-                                    Full
-                                    Stack
-                                    Developer</h5>
-                            </li>
-                            <li class="c-accordion-item">
-                                <h5 class="c-accordion-item-title bg-gray-200 p-4 text-center font-bold">Front End
-                                    Developer
-
-                                </h5>
-                            </li>
-                            <li class="c-accordion-item">
-                                <h5 class="c-accordion-item-title bg-gray-200 p-4 text-center font-bold">Back End
-                                    Developer
-
-                                </h5>
-                            </li>
-                            <li class="c-accordion-item">
-                                <h5 class="c-accordion-item-title bg-gray-200 p-4 text-center font-bold">UI Developer
-                                </h5>
-                            </li>
-                            <li class="c-accordion-item">
-                                <h5 class="c-accordion-item-title bg-gray-200 p-4 text-center font-bold">Software
-                                    Architect
-                                </h5>
-                            </li>
-                            <li class="c-accordion-item">
-                                <h5 class="c-accordion-item-title bg-gray-200 p-4 text-center font-bold">Project
-                                    Management</h5>
-                            </li>
-                            <li class="c-accordion-item">
-                                <h5 class="c-accordion-item-title bg-gray-200 p-4 text-center font-bold">Scrum Master
-                                </h5>
-                            </li>
-                            <li class="c-accordion-item">
-                                <h5 class="c-accordion-item-title bg-gray-200 p-4 text-center font-bold">Test Engineer
-                                </h5>
-                            </li>
-                            <li class="c-accordion-item">
-                                <h5 class="c-accordion-item-title bg-gray-200 p-4 text-center font-bold">DevOps Engineer
-                                </h5>
-                            </li>
-                            <li class="c-accordion-item">
-                                <h5 class="c-accordion-item-title bg-gray-200 p-4 text-center font-bold">Software
-                                    Engineer</h5>
-                            </li>
-                        </ul>
+            <div class="flex justify-center">
+                <div class="w-full lg:w-7/12 xl:w-9/12">
+                    <div class="c-section-grid-head text-left sm:text-center md:text-center xl:text-left">
+                        <h2 class="text-xl text-left md:text-2xl xl:text-5xl mt-4">Roles</h2>
+                    </div>
+                    <div class="c-section-grid-content">
+                        <div class="c-section-grid-main c-content">
+                            <div class="c-accordion">
+                                <ul class=" flex flex-col gap-4	 c-accordion-items js-accordion">
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title  font-bold">Full Stack Developer</h5>
+                                    </li>
+                                    <li class="c-accordion-item bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">Front End Developer
+                                        </h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">Back End Developer
+                                        </h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">UI Developer
+                                        </h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">Software Architect</h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">Project Management</h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">Scrum Master
+                                        </h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">Test Engineer
+                                        </h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">DevOps Engineer
+                                        </h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">Software Engineer
+                                        </h5>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -406,5 +400,10 @@ ul {
 .c__section {
     margin-left: 550px;
 
+}
+
+.c-accordion-item {
+    padding: 1.9rem;
+    color: #c4132e;
 }
 </style>
