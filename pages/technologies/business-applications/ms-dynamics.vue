@@ -39,7 +39,7 @@
             <div class="col-lg-6 col-md-0 col-sm-0 col-xs-0"></div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 order-sm-1 order-md-1">
                 <h2 class="mb-5 text-2xl md:text-6xl lg:text-6xl xl:text-4xl">
-                    <span class="block md:inline">The cure for your&nbsp;MS&nbsp;Dynamics</span>
+                      <span class="block md:inline">The cure for your MS&nbsp;Dynamics&nbsp;</span>
                     <span class="block md:inline">talent headache.</span>
                 </h2>
                 <p dir="ltr">Ms Dynamics popularity has exploded in the last decade. But there isn’t enough talent to
@@ -170,44 +170,19 @@
                             <div class="c-accordion">
                                 <ul class=" flex flex-col gap-4	 c-accordion-items js-accordion">
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title  font-bold">Cyber
-                                            Security
-                                            Analysts</h5>
+                                        <h5 class="c-accordion-item-title  font-bold">MS Dynamics Functional Consultants</h5>
                                     </li>
                                     <li class="c-accordion-item bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Project
-                                            Managers
+                                        <h5 class="c-accordion-item-title   font-bold">MS Dynamics Architects
                                         </h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Risk
-                                            Consultants
+                                        <h5 class="c-accordion-item-title   font-bold">MS Dynamics Developers
                                         </h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
                                         <h5 class="c-accordion-item-title   font-bold">
-                                            Security
-                                            Monitoring
-                                        </h5>
-                                    </li>
-                                    <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Cyber
-                                            Security
-                                            Engineers</h5>
-                                    </li>
-                                    <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">
-                                            Security
-                                            Business
-                                            Analysts</h5>
-                                    </li>
-                                    <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Infosec
-                                            Experts
-                                        </h5>
-                                    </li>
-                                    <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">CISOs
+                                           MS Dynamics Administrators
                                         </h5>
                                     </li>
                                 </ul>
