@@ -14,7 +14,7 @@
     </header>
     <div>
       <p class="hero4__second">
-        We craft experiences with captivating moments that amaze and foster genuine
+        We craft experiences with captivating moments that amaze and foster<br>genuine
         connections with audiences.
       </p>
     </div>
