@@ -4,7 +4,7 @@
         <div class="container hero4__top">
             <h2 class="flex flex-col	 hero__first__heading text-4xl md:text-6xl lg:text-6xl xl:text-6xl">
                 <span class="block md:inline">Recruiters who</span>
-                <span class="block md:inline">saw ServiceNow</span>
+                <span class="block md:inline">saw Service&nbsp;Now</span>
                 <span class="block md:inline">coming.</span>
             </h2>
         </div>
@@ -40,7 +40,7 @@
             <div class="col-lg-6 col-md-0 col-sm-0 col-xs-0"></div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 order-sm-1 order-md-1">
                 <h2 class="mb-5 text-2xl md:text-6xl lg:text-6xl xl:text-4xl">
-                    <span class="block md:inline">ServiceNow candidates. Ready&nbsp;</span>
+                    <span class="block md:inline">Service Now candidates. Ready&nbsp;</span>
                     <span class="block md:inline">for your call.</span>
                 </h2>
                 <p dir="ltr">HUEXD recruiters have been nurturing our ServiceNow talent pipeline since before it was
@@ -158,46 +158,23 @@
                             <div class="c-accordion">
                                 <ul class=" flex flex-col gap-4	 c-accordion-items js-accordion">
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title  font-bold">Cyber
-                                            Security
-                                            Analysts</h5>
+                                        <h5 class="c-accordion-item-title  font-bold">ServiceNow Software Developers
+                                        </h5>
                                     </li>
                                     <li class="c-accordion-item bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Project
-                                            Managers
+                                        <h5 class="c-accordion-item-title   font-bold">ServiceNow Architects
                                         </h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Risk
-                                            Consultants
+                                        <h5 class="c-accordion-item-title   font-bold">ServiceNow Solutions Architects
                                         </h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
                                         <h5 class="c-accordion-item-title   font-bold">
-                                            Security
-                                            Monitoring
+                                            ServiceNow Engineers
                                         </h5>
                                     </li>
-                                    <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Cyber
-                                            Security
-                                            Engineers</h5>
-                                    </li>
-                                    <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">
-                                            Security
-                                            Business
-                                            Analysts</h5>
-                                    </li>
-                                    <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Infosec
-                                            Experts
-                                        </h5>
-                                    </li>
-                                    <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">CISOs
-                                        </h5>
-                                    </li>
+
                                 </ul>
                             </div>
                         </div>
