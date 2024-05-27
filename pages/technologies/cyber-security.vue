@@ -438,5 +438,6 @@ ul {
 
 .c-accordion-item {
     padding: 1.9rem;
+      color: #c4132e;
 }
 </style>
