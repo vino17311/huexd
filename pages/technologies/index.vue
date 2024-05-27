@@ -5,14 +5,15 @@
   <section class="py-4">
     <div class="container hero4__top">
       <h2 class="flex flex-col	 hero__first__heading text-3xl md:text-6xl lg:text-6xl xl:text5xl mb-4">
-        <span class="block md:inline">Top AI & ML</span>
-        <span class="block md:inline">talent, active and&nbsp;ready</span>
+        <span class="block md:inline">Recruitment expertise</span>
+        <span class="block md:inline">across key technologies.</span>
 
       </h2>
     </div>
 
     <div class="container hero__technologies">
-      <p class="hero__second__heading">Streamline your AI and ML search. Access our pool of 300,000 candidates.
+      <p class="hero__second__heading">Fuel innovation with standout technology candidates that get the job done. On
+        time and on budget.
       </p>
     </div>
 
@@ -20,6 +21,23 @@
       <div class="section_one_img_container">
         <img class="section_one_img_1"
           src="https://www.netsolutions.com/assets/images/cloud-computing-hub-banner-img-2.webp" alt="Landscape Image">
+      </div>
+    </section>
+
+
+    <section>
+      <div class="container row">
+        <div class="col-lg-6 col-md-0 col-sm-0 col-xs-0"></div>
+        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 order-sm-1 order-md-1">
+          <h2 class="mb-5 text-2xl md:text-6xl lg:text-6xl xl:text-4xl">
+            <span class="block md:inline">Specialising in tech. Recruiting worldwide.</span>
+
+          </h2>
+          <p dir="ltr">With 24 years and over 40,000 placements, we know tech. We know transformation. We understand the
+            projects and requirements. With RED Global, you’ll know your project is in the right hands from our first
+            meeting to the last deliverable.</p>
+          <p>Technologies to support your digital transformation.</p>
+        </div>
       </div>
     </section>
 
@@ -52,38 +70,47 @@
     <div class="container">
       <div class="row">
         <div class="col-12 col-lg-6 mb-4">
-          <a href="/technologies/business-applications" class="flex-link">
+          <a href="/technologies/software-development" class="flex-link">
             <div class="flex-container">
               <div class="icon-container-holder">
-                <svg width="32px" height="32px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg"
-                  xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <title>icon-applications</title>
-                  <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                    <g id="Desktop-HD" transform="translate(-942.000000, -748.000000)" fill="currentColor"
-                      fill-rule="nonzero">
-                      <g id="icon-applications" transform="translate(942.000000, 748.000000)">
-                        <path
-                          d="M35.582082,0 L2.41791805,0 C1.08306609,0 0,1.08331884 0,2.4184823 L0,35.5815177 C0,36.9166812 1.08306609,38 2.41791805,38 L35.582082,38 C36.9169339,38 38,36.9166812 38,35.5815177 L38,2.4184823 C38,1.08331884 36.9169339,0 35.582082,0 Z M33.1641639,33.1630354 L4.83583609,33.1630354 L4.83583609,4.83696459 L33.1641639,4.83696459 L33.1641639,33.1630354 Z"
-                          id="Shape"></path>
-                        <path
-                          d="M79.5817229,0 L46.4182771,0 C45.0832269,0 44,1.08331884 44,2.4184823 L44,35.5815177 C44,36.9166812 45.0832269,38 46.4182771,38 L79.5817229,38 C80.9167731,38 82,36.9166812 82,35.5815177 L82,2.4184823 C82,1.08331884 80.9136293,0 79.5817229,0 L79.5817229,0 Z M77.1634458,33.1630354 L48.8365542,33.1630354 L48.8365542,4.83696459 L77.1634458,4.83696459 L77.1634458,33.1630354 Z"
-                          id="Shape"></path>
-                        <path
-                          d="M35.582082,44 L2.41791805,44 C1.08306609,44 0,45.0833188 0,46.4184823 L0,79.5815177 C0,80.9166812 1.08306609,82 2.41791805,82 L35.582082,82 C36.9169339,82 38,80.9166812 38,79.5815177 L38,46.4184823 C38,45.0833188 36.9169339,44 35.582082,44 Z M33.1641639,77.1630354 L4.83583609,77.1630354 L4.83583609,48.8369646 L33.1641639,48.8369646 L33.1641639,77.1630354 Z"
-                          id="Shape"></path>
-                        <path
-                          d="M79.5817229,44 L46.4182771,44 C45.0832269,44 44,45.0833188 44,46.4184823 L44,79.5815177 C44,80.9166812 45.0832269,82 46.4182771,82 L67.546764,82 C68.8818141,82 69.965041,80.9166812 69.965041,79.5815177 C69.965041,78.2463542 68.8818141,77.1630354 67.546764,77.1630354 L48.8365542,77.1630354 L48.8365542,48.8369646 L77.1634458,48.8369646 L77.1634458,79.5815177 C77.1634458,80.9166812 78.2466727,82 79.5817229,82 C80.9167731,82 82,80.9166812 82,79.5815177 L82,46.4184823 C82,45.0833188 80.9136293,44 79.5817229,44 L79.5817229,44 Z"
-                          id="Path"></path>
-                      </g>
-                    </g>
-                  </g>
+                <svg width="28" height="31" viewBox="0 0 28 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" clip-rule="evenodd"
+                    d="M25.8318 7.01328L14.9478 0.730147C14.1953 0.29568 13.2681 0.29568 12.5156 0.730147L1.63162 7.01328C0.878616 7.44802 0.41497 8.25168 0.415528 9.12117V15.4732V17.2399V21.6874C0.41497 22.5569 0.878616 23.3606 1.63162 23.7953L12.5156 30.0784C13.2681 30.5129 14.1953 30.5129 14.9478 30.0784L25.8318 23.7953C26.5848 23.3606 27.0485 22.5569 27.0479 21.6874V15.6193C27.0604 15.538 27.0607 15.4546 27.0479 15.372V9.12117C27.0485 8.25168 26.5848 7.44802 25.8318 7.01328ZM25.4354 15.0252L25.8401 14.793C26.2285 14.5691 26.7249 14.7025 26.9488 15.0909C27.0004 15.1804 27.033 15.2757 27.0479 15.372V15.6193C27.0117 15.8544 26.873 16.0715 26.6508 16.1996L25.4329 16.8987L25.4354 15.0252ZM25.4329 16.8987L20.8539 19.5268V24.7966L25.0211 22.3887C25.2717 22.244 25.4261 21.9768 25.4264 21.6874L25.4329 16.8987ZM25.4354 15.0252L20.8539 17.6541V12.4614C20.858 12.3871 20.858 12.3127 20.8539 12.2384L25.4427 9.59139L25.4354 15.0252ZM2.03698 17.2399V16.8758L6.60948 19.5147V24.7966L2.44234 22.3887C2.19176 22.244 2.03728 21.9768 2.03698 21.6874V17.2399ZM2.03698 9.59139V15.0049L6.62569 17.6419V12.4614C6.62167 12.3871 6.62167 12.3127 6.62569 12.2384L2.03698 9.59139ZM14.1371 2.13676C13.8862 1.99194 13.5772 1.99194 13.3263 2.13676L9.15921 4.54056L13.7317 7.17948L18.3042 4.54056L14.1371 2.13676ZM7.43642 10.8318L2.84771 8.18478L7.53776 5.47695L12.1103 8.10776L7.62289 10.7061L7.43642 10.8318ZM12.921 14.9462V9.52248L8.43361 12.1127C8.30895 12.1847 8.2318 12.3174 8.23093 12.4614V17.646L12.921 14.9462ZM12.921 28.4367L8.23093 25.733V20.4632L12.7183 23.0413C12.7829 23.0807 12.8507 23.1146 12.921 23.1427V28.4367ZM9.04571 19.0526L13.529 21.6388C13.6544 21.7112 13.809 21.7112 13.9344 21.6388L18.4177 19.0526L13.7317 16.3488L9.04571 19.0526ZM19.2325 25.733L14.5424 28.4367V23.1427C14.6127 23.1146 14.6805 23.0807 14.7451 23.0413L19.2325 20.4511V25.733ZM14.5424 14.9462L19.2325 17.6257V12.4614C19.2316 12.3174 19.1545 12.1847 19.0298 12.1127L14.5424 9.52248V14.9462ZM19.8405 10.6859L15.3532 8.10776L19.9257 5.46884L24.6157 8.17667L20.027 10.8318L19.8405 10.6859Z"
+                    fill="currentColor"></path>
                 </svg>
               </div>
               <div class="text-container">
-                <div class="header-holder-for-col">Business-appliccations</div>
+                <div class="header-holder-for-col">Software & Development</div>
                 <div class="para-holder-for-col">
-                  Cloud infrastructure offers scalability, allowing businesses to easily scale up or down their
-                  resources (such as storage, computing power, and networking) based on demand.
+                  Software development is a collaborative process that combines creativity and problem-solving skills to
+                  design, build, and maintain efficient and user-friendly digital solutions.
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-12 col-lg-6 mb-4">
+          <a href="/technologies/sap" class="flex-link">
+            <div class="flex-container">
+              <div class="icon-container-holder">
+                <svg width="33" height="33" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M27.7671 31.1565H5.06195C3.12997 31.1565 1.5481 29.574 1.5481 27.6239C1.5481 25.6733 3.13036 24.0898 5.06195 24.0898H27.7684C29.6996 24.0898 31.2809 25.6729 31.2809 27.6239C31.2809 29.5742 29.7002 31.1565 27.7671 31.1565Z"
+                    stroke="currentColor" stroke-width="2"></path>
+                  <path
+                    d="M31.3861 28.3611C30.9566 28.3611 30.0856 28.0539 30.0143 27.6229L26.3879 4.95618C26.1656 3.61183 25.235 2.68952 23.9463 2.68952C23.9463 2.68952 18.9238 2.68952 16.4125 2.68952C13.9012 2.68952 8.87864 2.68952 8.87864 2.68952C7.59132 2.68952 6.70305 3.61318 6.47935 4.95618L2.81427 27.6229C2.73467 28.1025 1.77643 28.4232 1.29471 28.3489C0.810252 28.2719 0.480874 27.8193 0.559101 27.341L4.37714 4.33296C4.7422 2.14011 6.71984 0.422852 8.87864 0.422852H23.9463C26.1079 0.422852 28.0855 2.14011 28.4478 4.33431L32.2658 27.3423C32.3454 27.8206 32.0147 28.2719 31.5289 28.3503C31.4822 28.357 31.4342 28.3611 31.3861 28.3611Z"
+                    fill="currentColor"></path>
+                  <path
+                    d="M27.4237 28.5146H5.4049C4.913 28.5146 4.51428 28.1152 4.51428 27.6225C4.51428 27.1298 4.913 26.7305 5.4049 26.7305H27.4237C27.9156 26.7305 28.3143 27.1298 28.3143 27.6225C28.3143 28.1152 27.9169 28.5146 27.4237 28.5146Z"
+                    fill="currentColor"></path>
+                </svg>
+              </div>
+              <div class="text-container">
+                <div class="header-holder-for-col">ERP</div>
+                <div class="para-holder-for-col">
+                  An Enterprise Resource Planning (ERP) system integrates core business processes and functions into a
+                  centralized database, providing real-time data and streamlined workflows across departments.
                 </div>
               </div>
             </div>
@@ -120,8 +147,50 @@
               <div class="text-container">
                 <div class="header-holder-for-col">Cloud & Infrastructure</div>
                 <div class="para-holder-for-col">
-                  Cloud infrastructure offers scalability, allowing businesses to easily scale up or down their
-                  resources (such as storage, computing power, and networking) based on demand.
+
+                  Cloud infrastructure refers to the collection of hardware and software components, including servers,
+                  storage, networking, and virtualization technologies, that are required to support cloud computing
+                  services..
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-12 col-lg-6 mb-4">
+          <a href="/technologies/business-applications" class="flex-link">
+            <div class="flex-container">
+              <div class="icon-container-holder">
+                <svg width="32px" height="32px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                  xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <title>icon-applications</title>
+                  <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g id="Desktop-HD" transform="translate(-942.000000, -748.000000)" fill="currentColor"
+                      fill-rule="nonzero">
+                      <g id="icon-applications" transform="translate(942.000000, 748.000000)">
+                        <path
+                          d="M35.582082,0 L2.41791805,0 C1.08306609,0 0,1.08331884 0,2.4184823 L0,35.5815177 C0,36.9166812 1.08306609,38 2.41791805,38 L35.582082,38 C36.9169339,38 38,36.9166812 38,35.5815177 L38,2.4184823 C38,1.08331884 36.9169339,0 35.582082,0 Z M33.1641639,33.1630354 L4.83583609,33.1630354 L4.83583609,4.83696459 L33.1641639,4.83696459 L33.1641639,33.1630354 Z"
+                          id="Shape"></path>
+                        <path
+                          d="M79.5817229,0 L46.4182771,0 C45.0832269,0 44,1.08331884 44,2.4184823 L44,35.5815177 C44,36.9166812 45.0832269,38 46.4182771,38 L79.5817229,38 C80.9167731,38 82,36.9166812 82,35.5815177 L82,2.4184823 C82,1.08331884 80.9136293,0 79.5817229,0 L79.5817229,0 Z M77.1634458,33.1630354 L48.8365542,33.1630354 L48.8365542,4.83696459 L77.1634458,4.83696459 L77.1634458,33.1630354 Z"
+                          id="Shape"></path>
+                        <path
+                          d="M35.582082,44 L2.41791805,44 C1.08306609,44 0,45.0833188 0,46.4184823 L0,79.5815177 C0,80.9166812 1.08306609,82 2.41791805,82 L35.582082,82 C36.9169339,82 38,80.9166812 38,79.5815177 L38,46.4184823 C38,45.0833188 36.9169339,44 35.582082,44 Z M33.1641639,77.1630354 L4.83583609,77.1630354 L4.83583609,48.8369646 L33.1641639,48.8369646 L33.1641639,77.1630354 Z"
+                          id="Shape"></path>
+                        <path
+                          d="M79.5817229,44 L46.4182771,44 C45.0832269,44 44,45.0833188 44,46.4184823 L44,79.5815177 C44,80.9166812 45.0832269,82 46.4182771,82 L67.546764,82 C68.8818141,82 69.965041,80.9166812 69.965041,79.5815177 C69.965041,78.2463542 68.8818141,77.1630354 67.546764,77.1630354 L48.8365542,77.1630354 L48.8365542,48.8369646 L77.1634458,48.8369646 L77.1634458,79.5815177 C77.1634458,80.9166812 78.2466727,82 79.5817229,82 C80.9167731,82 82,80.9166812 82,79.5815177 L82,46.4184823 C82,45.0833188 80.9136293,44 79.5817229,44 L79.5817229,44 Z"
+                          id="Path"></path>
+                      </g>
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <div class="text-container">
+                <div class="header-holder-for-col">Business-appliccations</div>
+                <div class="para-holder-for-col">
+
+                  Business applications are software tools that automate tasks like accounting, inventory management,
+                  customer relations, and HR, boosting efficiency and decision-making.
                 </div>
               </div>
             </div>
@@ -147,13 +216,14 @@
               <div class="text-container">
                 <div class="header-holder-for-col">Cyber&Security</div>
                 <div class="para-holder-for-col">
-                  Cloud infrastructure offers scalability, allowing businesses to easily scale up or down their
-                  resources (such as storage, computing power, and networking) based on demand.
+                  Cybersecurity encompasses practices, technologies, and measures designed to protect systems, networks,
+                  and data from digital threats, ensuring confidentiality, integrity, and availability of information.
                 </div>
               </div>
             </div>
           </a>
         </div>
+
 
         <div class="col-12 col-lg-6 mb-4">
           <a href="/technologies/data-analytics" class="flex-link">
@@ -181,61 +251,15 @@
               <div class="text-container">
                 <div class="header-holder-for-col">Data & Analytics</div>
                 <div class="para-holder-for-col">
-                  Cloud infrastructure offers scalability, allowing businesses to easily scale up or down their
-                  resources (such as storage, computing power, and networking) based on demand.
+                  Data analytics is the process of examining data sets to uncover trends, patterns, and insights that
+                  businesses can leverage to make strategic decisions, improve operations, and gain a competitive
+                  advantage.
                 </div>
               </div>
             </div>
           </a>
         </div>
 
-        <div class="col-12 col-lg-6 mb-4">
-          <a href="/technologies/sap" class="flex-link">
-            <div class="flex-container">
-              <div class="icon-container-holder">
-                <svg width="33" height="33" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path
-                    d="M27.7671 31.1565H5.06195C3.12997 31.1565 1.5481 29.574 1.5481 27.6239C1.5481 25.6733 3.13036 24.0898 5.06195 24.0898H27.7684C29.6996 24.0898 31.2809 25.6729 31.2809 27.6239C31.2809 29.5742 29.7002 31.1565 27.7671 31.1565Z"
-                    stroke="currentColor" stroke-width="2"></path>
-                  <path
-                    d="M31.3861 28.3611C30.9566 28.3611 30.0856 28.0539 30.0143 27.6229L26.3879 4.95618C26.1656 3.61183 25.235 2.68952 23.9463 2.68952C23.9463 2.68952 18.9238 2.68952 16.4125 2.68952C13.9012 2.68952 8.87864 2.68952 8.87864 2.68952C7.59132 2.68952 6.70305 3.61318 6.47935 4.95618L2.81427 27.6229C2.73467 28.1025 1.77643 28.4232 1.29471 28.3489C0.810252 28.2719 0.480874 27.8193 0.559101 27.341L4.37714 4.33296C4.7422 2.14011 6.71984 0.422852 8.87864 0.422852H23.9463C26.1079 0.422852 28.0855 2.14011 28.4478 4.33431L32.2658 27.3423C32.3454 27.8206 32.0147 28.2719 31.5289 28.3503C31.4822 28.357 31.4342 28.3611 31.3861 28.3611Z"
-                    fill="currentColor"></path>
-                  <path
-                    d="M27.4237 28.5146H5.4049C4.913 28.5146 4.51428 28.1152 4.51428 27.6225C4.51428 27.1298 4.913 26.7305 5.4049 26.7305H27.4237C27.9156 26.7305 28.3143 27.1298 28.3143 27.6225C28.3143 28.1152 27.9169 28.5146 27.4237 28.5146Z"
-                    fill="currentColor"></path>
-                </svg>
-              </div>
-              <div class="text-container">
-                <div class="header-holder-for-col">SAP</div>
-                <div class="para-holder-for-col">
-                  Cloud infrastructure offers scalability, allowing businesses to easily scale up or down their
-                  resources (such as storage, computing power, and networking) based on demand.
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
-
-        <div class="col-12 col-lg-6 mb-4">
-          <a href="/technologies/software-development" class="flex-link">
-            <div class="flex-container">
-              <div class="icon-container-holder">
-                <svg width="28" height="31" viewBox="0 0 28 31" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path fill-rule="evenodd" clip-rule="evenodd"
-                    d="M25.8318 7.01328L14.9478 0.730147C14.1953 0.29568 13.2681 0.29568 12.5156 0.730147L1.63162 7.01328C0.878616 7.44802 0.41497 8.25168 0.415528 9.12117V15.4732V17.2399V21.6874C0.41497 22.5569 0.878616 23.3606 1.63162 23.7953L12.5156 30.0784C13.2681 30.5129 14.1953 30.5129 14.9478 30.0784L25.8318 23.7953C26.5848 23.3606 27.0485 22.5569 27.0479 21.6874V15.6193C27.0604 15.538 27.0607 15.4546 27.0479 15.372V9.12117C27.0485 8.25168 26.5848 7.44802 25.8318 7.01328ZM25.4354 15.0252L25.8401 14.793C26.2285 14.5691 26.7249 14.7025 26.9488 15.0909C27.0004 15.1804 27.033 15.2757 27.0479 15.372V15.6193C27.0117 15.8544 26.873 16.0715 26.6508 16.1996L25.4329 16.8987L25.4354 15.0252ZM25.4329 16.8987L20.8539 19.5268V24.7966L25.0211 22.3887C25.2717 22.244 25.4261 21.9768 25.4264 21.6874L25.4329 16.8987ZM25.4354 15.0252L20.8539 17.6541V12.4614C20.858 12.3871 20.858 12.3127 20.8539 12.2384L25.4427 9.59139L25.4354 15.0252ZM2.03698 17.2399V16.8758L6.60948 19.5147V24.7966L2.44234 22.3887C2.19176 22.244 2.03728 21.9768 2.03698 21.6874V17.2399ZM2.03698 9.59139V15.0049L6.62569 17.6419V12.4614C6.62167 12.3871 6.62167 12.3127 6.62569 12.2384L2.03698 9.59139ZM14.1371 2.13676C13.8862 1.99194 13.5772 1.99194 13.3263 2.13676L9.15921 4.54056L13.7317 7.17948L18.3042 4.54056L14.1371 2.13676ZM7.43642 10.8318L2.84771 8.18478L7.53776 5.47695L12.1103 8.10776L7.62289 10.7061L7.43642 10.8318ZM12.921 14.9462V9.52248L8.43361 12.1127C8.30895 12.1847 8.2318 12.3174 8.23093 12.4614V17.646L12.921 14.9462ZM12.921 28.4367L8.23093 25.733V20.4632L12.7183 23.0413C12.7829 23.0807 12.8507 23.1146 12.921 23.1427V28.4367ZM9.04571 19.0526L13.529 21.6388C13.6544 21.7112 13.809 21.7112 13.9344 21.6388L18.4177 19.0526L13.7317 16.3488L9.04571 19.0526ZM19.2325 25.733L14.5424 28.4367V23.1427C14.6127 23.1146 14.6805 23.0807 14.7451 23.0413L19.2325 20.4511V25.733ZM14.5424 14.9462L19.2325 17.6257V12.4614C19.2316 12.3174 19.1545 12.1847 19.0298 12.1127L14.5424 9.52248V14.9462ZM19.8405 10.6859L15.3532 8.10776L19.9257 5.46884L24.6157 8.17667L20.027 10.8318L19.8405 10.6859Z"
-                    fill="currentColor"></path>
-                </svg>
-              </div>
-              <div class="text-container">
-                <div class="header-holder-for-col">Software & Development</div>
-                <div class="para-holder-for-col">
-                  Cloud infrastructure offers scalability, allowing businesses to easily scale up or down their
-                  resources (such as storage, computing power, and networking) based on demand.
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
 
       </div>
     </div>
