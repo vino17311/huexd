@@ -1,7 +1,7 @@
 <template>
     <Header></Header>
-    <section class="py-4">
-        <div class="container hero4__top">
+    <section class="py-4 container">
+        <div class="hero4__top">
             <h2 class="flex flex-col hero__first__heading text-4xl md:text-6xl lg:text-6xl xl:text-6xl">
                 <span class="block md:inline">Oracle experts,</span>
                 <span class="block md:inline">built for your</span>
@@ -278,46 +278,31 @@
                             <div class="c-accordion">
                                 <ul class=" flex flex-col gap-4	 c-accordion-items js-accordion">
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title  font-bold">Cyber
-                                            Security
-                                            Analysts</h5>
+                                        <h5 class="c-accordion-item-title  font-bold">
+                                            Oracle Cloud Developers</h5>
                                     </li>
                                     <li class="c-accordion-item bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Project
-                                            Managers
+                                        <h5 class="c-accordion-item-title   font-bold">Oracle Retail Developers
                                         </h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Risk
-                                            Consultants
+                                        <h5 class="c-accordion-item-title   font-bold">Oracle Software Engineers
                                         </h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
                                         <h5 class="c-accordion-item-title   font-bold">
-                                            Security
-                                            Monitoring
+                                            Oracle Software Developers
                                         </h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Cyber
-                                            Security
-                                            Engineers</h5>
+                                        <h5 class="c-accordion-item-title   font-bold">Oracle Engineers</h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
                                         <h5 class="c-accordion-item-title   font-bold">
-                                            Security
-                                            Business
-                                            Analysts</h5>
+                                            Oracle Consultants</h5>
                                     </li>
-                                    <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Infosec
-                                            Experts
-                                        </h5>
-                                    </li>
-                                    <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">CISOs
-                                        </h5>
-                                    </li>
+
+
                                 </ul>
                             </div>
                         </div>
