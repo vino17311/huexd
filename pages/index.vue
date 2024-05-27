@@ -24,7 +24,7 @@
   <section class="container mx-auto mt-4 mb-4">
     <div class="section_one_img_container">
       <img class="section_one_img"
-        src="https://s3-alpha-sig.figma.com/img/75a1/c6e7/2158b198aa17e918a89411bd672ab00c?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OSMwD-dlxUg507r0Y3RfKvDMMS6o0v5luEfyxCage1WlHdjg2M~xUKzLJPvhy4REpg3e14tQh0fq-fJKcvQ9i9omQNikOreOvTvziZG7XGFHkdbe8XCJCbrLSHzlNOEIjkHoX6cAkMWKmAiYQpmjFHeuqn2gCYorAwlszGSJ-rmKABsfXWc5wWwJA4x~ZhOF4J0inKaRyrDtE8s2XA1iaWC-KRXTWXUfAsb7KAYKDd7vNZGvZyPDu2Xnut4jVmSncqjZ86MYjC82DJrGXg9cAJGWZ506EWocf123K24jf5ZHNI~gb1mCcBxI1BbbWO5AP5rSvDXpmQ52Tei-sBzDSQ__"
+        src="https://images.pexels.com/photos/3184299/pexels-photo-3184299.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         alt="Landscape Image">
     </div>
   </section>
