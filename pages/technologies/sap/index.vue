@@ -10,7 +10,7 @@
 
         <div class="container hero__technologies">
             <p class="hero__second__heading">Whether legacy or S/4HANA, you’ll accomplish your SAP transformation with
-                top talent solutions by RED Global.</p>
+                top talent solutions by HUEXD.</p>
         </div>
 
         <section class="container mx-auto mt-4 mb-4">
