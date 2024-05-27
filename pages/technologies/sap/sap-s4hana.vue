@@ -49,7 +49,7 @@
                     you prove S/4HANA was a worthwhile investment to your superiors.</p>
                 <p>You need a recruitment team that knows S/4HANA. That knows SAP. S/4HANA talent that exceeds
                     expectations. You want to minimise risk. Build a long-term recruitment strategy.</p>
-                <p>This is what we offer here at RED: your total S/4HANA talent solution.</p>
+                <p>This is what we offer here at HUEXD: your total S/4HANA talent solution.</p>
             </div>
         </div>
     </section>
