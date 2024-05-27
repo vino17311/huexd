@@ -24,7 +24,7 @@
   <section class="container mx-auto mt-4 mb-4">
     <div class="section_one_img_container">
       <img class="section_one_img"
-        src="https://s3-alpha-sig.figma.com/img/75a1/c6e7/2158b198aa17e918a89411bd672ab00c?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cepl6ctuodK6MHjPdavYA4h-C61Mg4WNaLOwPQ0ajmpcYh04CCRNStKRzCQ0Myr5KtVwGvqkWCjded3O3q1dkKnxLlXEDnG7jrXEn9OA-eNacYxeNaZkyvUKz5gIZW5sNmPgWCoVWQ4gsp5KKsEYV8Bo5NhqRWRO6qScBmdrr2k5zil5Wm9Ks~fcE5f2GcBqfXQBiJVyez1Zl4jPVTOfZ0qdXcEsafijtqXvlofX8HbCCAPtO91opY938zL4Ygh8W-rlfF5GIxB5qX1ZN8ErA1Q4MB6chan~O4Z~HAkdhAHnHRT8lUhgESGM-a2HDil5lHikBFkPobW6QaZYPUfRLQ__"
+        src="https://s3-alpha-sig.figma.com/img/75a1/c6e7/2158b198aa17e918a89411bd672ab00c?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OSMwD-dlxUg507r0Y3RfKvDMMS6o0v5luEfyxCage1WlHdjg2M~xUKzLJPvhy4REpg3e14tQh0fq-fJKcvQ9i9omQNikOreOvTvziZG7XGFHkdbe8XCJCbrLSHzlNOEIjkHoX6cAkMWKmAiYQpmjFHeuqn2gCYorAwlszGSJ-rmKABsfXWc5wWwJA4x~ZhOF4J0inKaRyrDtE8s2XA1iaWC-KRXTWXUfAsb7KAYKDd7vNZGvZyPDu2Xnut4jVmSncqjZ86MYjC82DJrGXg9cAJGWZ506EWocf123K24jf5ZHNI~gb1mCcBxI1BbbWO5AP5rSvDXpmQ52Tei-sBzDSQ__"
         alt="Landscape Image">
     </div>
   </section>
@@ -69,7 +69,7 @@
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pt-2 pb-2">
             <div class="grid-item">
               <img
-                src="https://s3-alpha-sig.figma.com/img/4d9c/45dd/c2c81f6087f8df018ec2a049f0722650?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mXeKvGGda09-fQqPqZo3hWqfmGAwzQK0JuybZkgQ-hcs~nWj7nmRIdsyMld3ft~DFb9ssu8nqCSK3HMkyqfbpRkUICkDq~7Ra61remQVHWWfoN9QQ5sc8RjLyUNAxCuscvhS3OURz~zSeK9tUB-e9t8eeYKZ3LM-2WF5fxC9LJUKN59P4pqqtArL-9nk003mtandDMuRVdikGpUacyzPAZoNgdd9cZEcutBrUwZsCnDJqQNiViroEsNROk36~5bkVXpC8KbNhQes10lVNcglGijFcepNqxqV3wsmZ9b6WDTgF5qP1OM7UPzCPHgi7icJ1DvI4UHKMZ4rVwWYOFp~hg__"
+                src="https://s3-alpha-sig.figma.com/img/4d9c/45dd/c2c81f6087f8df018ec2a049f0722650?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=elzVJrR-ptCwjCBJSZqSl8bB~Bh~nDDX14hHLMo5fENvY6G4H3EbMHNDpnfE~L866UDakoOBwkOQmQldLvqbyJMBZmVEHhaYOzJ4l~zR0E2X1lsTqhgKJAj3THNtGe6t0Dp-c1~0W5rSTFZ8vqZ-Gu4Gpt7723M3BzLCE8vHRhfFdE4g0wCsw64Vi6oOjtV24N6k3UpJeajZ53d9pRClXIrpemHEwESi2srJcpeWcRvFayVXwsXIB3LkKmGhflBVs4xBaCch8z0ZLQwoiA7i0EeRWUXckQQ72uS8ge4~JUkmYQsapatHnXw3-HOA-WM2KcGk3xwlHdX2yw2UwAuC5w__"
                 alt="Expertise Image" class="grid-img-1 rounded-lg">
             </div>
           </div>
@@ -90,7 +90,7 @@
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 order-sm-2 order-md-1 h-100 mb-4">
             <div class="grid-item d-flex align-items-center justify-content-center h-100">
               <img
-                src="https://s3-alpha-sig.figma.com/img/f657/110a/214f47e27bce6ccd7a894c018ec7a03e?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Zp08rMFcMXSqX68gWO6jmdYPYjmHhXrOfuZsLKuRRFhl90dUEfXDy9iyWjcFyCS~ZUYZuxKu2UhXJ47hhjDv8nB0JONndm5qCE1NcgeU0OJw2oMSlQWO-NIYkZA88SP4e7Qu4UTD6oVthtUvTnHuvteHnb5qpyIaynDd2yYY1pM4Mo0nHDBCgYv3gk-vy-Aiv7PLo8ppoeO-r85pBBtgQ192X-6vXGf89u72FqT8GYrAhWUX5tzqlsxBdpf0eKVYcPwE8U-1n7p131yNTJcdCpbadBYaPsE2QCZ-KdZALga4WI4TwOCv50P1KxLsU~zpOa38~tySJrBGnFMaksEBew__"
+                src="https://s3-alpha-sig.figma.com/img/f657/110a/214f47e27bce6ccd7a894c018ec7a03e?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=o0uZ6o4WbZlC6EqbZaW8dadIvFfCFYYeLBgC6lsHOyVJdccc1BcbQcRq7GAylq0YwUjNLLvfbOPZDJh5b8eV13mK8g3xVCpMzxDsdmeHKdcRV3IdsbYQY2wjStA9VQDjbkgFeqWKxqDUtATl6pMVqyi~plokAaIlB0w3RTIjcP7cGFa9qkKNB-Ck7p3xvzGYSAlUVTGTx2njp3v~GichRj6L4L1CLsoA6tKQJNrOXUBCFfuK4cLQStNlK7f~XKzbGZkFwMjVrF2VMx~RN~fq1qsrJpgkawTz6d9MtCHxnNVitjqtvtsJ-tIyQ4cfrLOKCJLH0cKL1IBbbyjydfFSfA__"
                 alt="Expertise Image" class="grid-img-2 rounded-lg">
             </div>
           </div>
