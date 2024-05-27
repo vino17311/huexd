@@ -1,0 +1,545 @@
+<template>
+    <Header></Header>
+    <section class="py-4">
+        <div class="container hero4__top">
+            <h2 class="flex flex-col hero__first__heading text-4xl md:text-6xl lg:text-6xl xl:text-6xl">
+                <span class="block md:inline">Oracle experts,</span>
+                <span class="block md:inline">built for your</span>
+                <span class="block md:inline">business.</span>
+            </h2>
+        </div>
+
+        <div class="container hero__technologies">
+            <p class="hero__second__heading">Take advantage of all that Oracle has to offer with quality talent,
+                handpicked by HUEXD.</p>
+        </div>
+
+        <section class="container mx-auto mt-4 mb-4">
+            <div class="section_one_img_container">
+                <img class="section_one_img"
+                    src="https://tiimg.tistatic.com/fp/1/007/236/ensoft-cloud-intelligence-979.jpg"
+                    alt="Landscape Image">
+            </div>
+        </section>
+
+        <div class="container c-hero__breadcrumb">
+            <nav aria-label="breadcrumb" class="overflow-x-auto">
+                <ol class="flex	c-breadcrumb whitespace-nowrap">
+                    <li class="c-breadcrumb__item"><a href="/">Home</a></li>
+                    <li class="c-breadcrumb__item"><a href="/technologies">Technologies</a></li>
+                    <li class="c-breadcrumb__item"><a
+                            href="/technologies/business-applications">business-applications</a></li>
+                    <li class="c-breadcrumb__item --current">oracle</li>
+                </ol>
+            </nav>
+        </div>
+    </section>
+
+    <section>
+        <div class="container row">
+            <div class="col-lg-6 col-md-0 col-sm-0 col-xs-0"></div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 order-sm-1 order-md-1">
+                <h2 class="mb-5 text-2xl md:text-6xl lg:text-6xl xl:text-4xl">
+                    <span class="block md:inline">Strong Oracle candidates.</span>
+                    <span class="block md:inline">Creating future-ready.</span>
+                    <span class="block md:inline">companies.</span>
+                </h2>
+                <p dir="ltr">Oracle has been around for some time. Creating a wealth of Oracle talent to choose from
+                    around the world. But that doesn’t make finding the best-suited candidates for your company any
+                    easier.</p>
+                <p>Our Oracle recruitment consultants will help you cut through the noise. We’ll put in the hours for
+                    you. To find the people you really need. And deliver 2 quality CVs instead of 10 mediocre ones.
+                    Because your time matters.&nbsp;</p>
+                <p>With an unrivalled network. And intensive knowledge of Oracle modules and the talent you need to
+                    manage them. There’s no one else better suited to help you build your dream Oracle team. It all
+                    begins with a no-commitment call.&nbsp;</p>
+            </div>
+        </div>
+    </section>
+    <section class="container">
+        <div class="hero4__top">
+            <h2 class="flex flex-col	 hero__first__heading__1 text-5xl md:text-6xl lg:text-6xl xl:text-7xl mt-5 mb-5">
+                <span class="block md:inline">Technologies</span>
+            </h2>
+        </div>
+        <div class="c-section-grid__additional">
+            <div class="c-panels">
+                <div class="o-container o-container--medium c-panels__inner p-0">
+                    <ul class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Retail
+                                </h4>
+                            </div>
+
+                        </li>
+
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">
+                                    Oracle HRMS
+                                </h4>
+                            </div>
+
+                        </li>
+
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Cloud
+                                </h4>
+                            </div>
+
+                        </li>
+
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Integration
+                                </h4>
+                            </div>
+
+                        </li>
+
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">
+                                    Oracle Procurement
+                                </h4>
+                            </div>
+
+                        </li>
+
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Marketing & Sales
+
+                                </h4>
+                            </div>
+
+                        </li>
+
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Order Management
+                                </h4>
+                            </div>
+
+                        </li>
+
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Logistics
+                                </h4>
+                            </div>
+
+                        </li>
+
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Supply Chain Planning
+                                </h4>
+                            </div>
+
+                        </li>
+
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Manufacturing
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">
+                                    Oracle Service
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">
+                                    Oracle Projects
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Real Estate Management
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Product Lifecycle Management
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">
+                                    Oracle Financials
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle HR
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Learning Management
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Customer Data Management
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Product Information Management
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Interaction Center Technology
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">
+                                    Oracle Communications
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle University
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Financial Services
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle High Tech
+                                </h4>
+                            </div>
+
+                        </li>
+                        <li class="c-panels__item">
+                            <div class="c-panels__item-head">
+                                <h4 class="c-panels__item-title">Oracle Aerospace, Defense & Transportation
+                                </h4>
+                            </div>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section class="c-section">
+        <div class="container">
+            <div class="flex justify-center">
+                <div class="w-full lg:w-7/12 xl:w-9/12">
+                    <div class="c-section-grid-head text-left sm:text-center md:text-center xl:text-left">
+                        <h2 class="text-xl text-left md:text-2xl xl:text-5xl mt-4 mb-5">Roles</h2>
+                    </div>
+                    <div class="c-section-grid-content">
+                        <div class="c-section-grid-main c-content">
+                            <div class="c-accordion">
+                                <ul class=" flex flex-col gap-4	 c-accordion-items js-accordion">
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title  font-bold">Cyber
+                                            Security
+                                            Analysts</h5>
+                                    </li>
+                                    <li class="c-accordion-item bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">Project
+                                            Managers
+                                        </h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">Risk
+                                            Consultants
+                                        </h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">
+                                            Security
+                                            Monitoring
+                                        </h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">Cyber
+                                            Security
+                                            Engineers</h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">
+                                            Security
+                                            Business
+                                            Analysts</h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">Infosec
+                                            Experts
+                                        </h5>
+                                    </li>
+                                    <li class="c-accordion-item  bg-gray-200 ">
+                                        <h5 class="c-accordion-item-title   font-bold">CISOs
+                                        </h5>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <Footer></Footer>
+</template>
+
+<script>
+import Header from '~/components/Header.vue';
+import Footer from '~/components/Footer.vue';
+
+export default {
+    components: {
+        Header,
+        Footer,
+    },
+};
+</script>
+
+<style scoped>
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    font-family: "Manrope";
+}
+
+.hero__first__heading {
+    color: #051AD0;
+    flex: 1;
+    width: 100%;
+    margin-top: 0;
+    font-weight: 800;
+
+}
+
+.hero__technologies {
+    padding-top: 20px;
+}
+
+.hero__second__heading {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+}
+
+.c-breadcrumb {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+
+}
+
+.c-breadcrumb__item {
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 15px;
+}
+
+.c-breadcrumb__item a {
+    color: #333;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease;
+}
+
+.c-breadcrumb__item a:hover {
+    border-color: #051AD0;
+}
+
+.c-breadcrumb__item.--current a {
+    color: #051AD0;
+}
+
+.c-breadcrumb__item.--current a:hover {
+    border-color: transparent;
+}
+
+.c-hero__breadcrumb {
+    margin-top: 20px;
+    color: #051AD0;
+}
+
+.talent-recruitment-section {
+    padding: 100px;
+
+}
+
+.talent-recruitment-section-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.section-title h2 {
+    color: #051AD0;
+    font-size: 60px;
+    font-weight: 800;
+    margin-bottom: 100px;
+    text-align: right;
+}
+
+.main-content p {
+    color: #333;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 50px;
+    text-align: start;
+    margin-left: 300px;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #051AD0;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+
+.cta-button:hover {
+    background-color: #3F4FFF;
+
+}
+
+.section_one_img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.c-panels__inner {
+    padding: var(--inner-padding, 0 20px);
+}
+
+.o-container--medium {
+    max-width: calc(140rem +(20px* 2));
+}
+
+.o-container {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1400px;
+
+}
+
+.c-panels__item {
+    display: grid;
+    grid-template-rows: subgrid;
+    grid-row: span 2;
+    gap: 0;
+    align-content: start;
+}
+
+.c-panels__item-head {
+    background-color: #c4132e;
+    color: #fff;
+    grid-row: 1;
+}
+
+.c-panels__item-title {
+    grid-row: 2;
+    display: flex;
+    align-items: center;
+    min-height: 122px;
+    padding: 20px;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: 30px center;
+    background-size: 35px;
+}
+
+ul {
+    padding: 0px;
+    margin-top: 30px;
+}
+
+
+.c-accordion__items {
+    list-style: none;
+    padding: 0 !important;
+}
+
+.c-accordion--narrow {
+    max-width: 808px;
+}
+
+.c-accordion__item {
+    background-color: #f0f0f0;
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+.c-accordion__item-title {
+    padding: 2.0rem 7rem 2.0rem 3.4rem;
+    color: #e11932;
+}
+
+.c__section {
+    margin-left: 550px;
+
+}
+
+.c-accordion-item {
+    padding: 1.9rem;
+    color: #c4132e;
+}
+
+.section_one_img_container {
+    width: 100%;
+    height: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 13px;
+    overflow: hidden;
+}
+</style>
