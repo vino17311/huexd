@@ -15,7 +15,7 @@
         <section class="container mx-auto mt-4 mb-4">
             <div class="section_one_img_container">
                 <img class="section_one_img"
-                    src="https://www.mysupplychaingroup.com/wp-content/uploads/2015/10/banner3.jpg"
+                    src="https://media.istockphoto.com/id/1211753386/vector/sap-business-process-automation-software-erp-enterprise-resources-planning-system-concept.jpg?s=612x612&w=0&k=20&c=xbJCBdvXMz2I8-0MDu14UuTl66mjrZDDZ2zM8xbPycM="
                     alt="Landscape Image">
             </div>
         </section>
