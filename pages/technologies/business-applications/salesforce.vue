@@ -4,13 +4,13 @@
         <div class="container hero4__top">
             <h2 class="flex flex-col	 hero__first__heading text-3xl md:text-6xl lg:text-6xl xl:text-6xl">
                 <span class="block md:inline">Hire in-demand,</span>
-                <span class="block md:inline">Salesforce talent.</span>
+                <span class="block md:inline">Salesforce talent<span class="dot">.</span></span>
             </h2>
         </div>
 
         <div class="container hero__technologies">
             <p class="hero__second__heading">
-                <span class="block md:inline">Enhance agility. Act on</span>
+                <span class="block md:inline">Enhance agility.Act on</span>
                 <span class="block md:inline">information fast.</span>
             </p>
         </div>
@@ -51,7 +51,7 @@
                 <p>You need talent that knows your industry too. To harmonise your entire organisation with Salesforce.
                     Giving you real-time insights. Streamlining processes. Fueling better relationships with your team.
                     With your customers. &nbsp;</p>
-                <p>You can trust RED Global to find this rare combination of skills. Our exclusive search technology.
+                <p>You can trust HUEXD to find this rare combination of skills. Our exclusive search technology.
                     Our 2 decades of experience. Our knowledge of the demands of your project. Gets you the right talent
                     that stays and fits in. &nbsp;</p>
             </div>
@@ -178,44 +178,32 @@
                             <div class="c-accordion">
                                 <ul class=" flex flex-col gap-4	 c-accordion-items js-accordion">
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title  font-bold">Cyber
-                                            Security
-                                            Analysts</h5>
+                                        <h5 class="c-accordion-item-title  font-bold">Administrators</h5>
                                     </li>
                                     <li class="c-accordion-item bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Project
-                                            Managers
+                                        <h5 class="c-accordion-item-title   font-bold">Business Analysts
                                         </h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Risk
-                                            Consultants
+                                        <h5 class="c-accordion-item-title   font-bold">Developers
                                         </h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">
-                                            Security
-                                            Monitoring
+                                        <h5 class="c-accordion-item-title   font-bold">Functional Consultants
                                         </h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Cyber
-                                            Security
-                                            Engineers</h5>
+                                        <h5 class="c-accordion-item-title   font-bold">Platform Managers</h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">
-                                            Security
-                                            Business
-                                            Analysts</h5>
+                                        <h5 class="c-accordion-item-title   font-bold">Solution Architects</h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">Infosec
-                                            Experts
+                                        <h5 class="c-accordion-item-title   font-bold">Technical Architects
                                         </h5>
                                     </li>
                                     <li class="c-accordion-item  bg-gray-200 ">
-                                        <h5 class="c-accordion-item-title   font-bold">CISOs
+                                        <h5 class="c-accordion-item-title   font-bold">Project Managers
                                         </h5>
                                     </li>
                                 </ul>
@@ -254,10 +242,14 @@ html {
     flex: 1;
     width: 100%;
     margin-top: 0;
-
+    font-family: manrope;
     font-weight: 800;
 
 }
+
+/* h2 {
+    font-family: 'Manrope';
+} */
 
 .hero__technologies {
     padding-top: 20px;
