@@ -13,13 +13,19 @@
     "@braid/vue-formulate": "^2.5.3",
     "@formkit/nuxt": "^1.6.2",
     "@headlessui/vue": "^1.7.20",
+    "@nuxt/ui": "^2.16.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
     "formkit": "^1.6.2",
+    "googleapis": "^137.1.0",
     "nuxt": "^3.11.2",
     "sass": "^1.75.0",
     "tw-elements": "^2.0.0",
+    "vee-validate": "^4.12.8",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0",
-    "yup": "^1.4.0"
+    "yup": "^1.4.0",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
