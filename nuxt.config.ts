@@ -4,7 +4,7 @@ import { resolve } from "path";
 
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ["@formkit/nuxt", "nuxt-icon"],
+  modules: ["@formkit/nuxt", "nuxt-icon","@nuxt/ui"],
   //@ts-ignore
   formkit: {
     autoImport: true,
