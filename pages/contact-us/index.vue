@@ -15,7 +15,6 @@
       </div>
     </section>
   </section>
-
   <section>
     <div class="container row">
       <div class="col-lg-4 col-md-0 col-sm-0 col-xs-0"></div>
@@ -26,59 +25,85 @@
               <h2 class="mb-7">Message to us</h2>
             </template>
 
-            <UForm :schema="ContactvalidationSchema" :state="formState" @submit="handleFormSubmit">
+            <form ref="contactForm" @submit.prevent="handleFormSubmit">
               <UFormGroup name="firstName" label="First Name">
-                <UInput type="text" v-model="formState.firstName" class="ui_input"></UInput>
+                <UInput type="text" v-model="formState.firstName" class="ui_input" @blur="validateFirstName">
+                </UInput>
+                <p v-if="formState.errors.firstName" class="error">{{ formState.errors.firstName }}</p>
               </UFormGroup>
 
               <UFormGroup name="lastName" label="Last Name">
-                <UInput type="text" v-model="formState.lastName" class="ui_input"></UInput>
+                <UInput type="text" v-model="formState.lastName" class="ui_input" @blur="validateLastName">
+                </UInput>
+                <p v-if="formState.errors.lastName" class="error">{{ formState.errors.lastName }}</p>
               </UFormGroup>
 
               <UFormGroup name="email" label="Email">
-                <UInput type="email" v-model="formState.email" class="ui_input"></UInput>
+                <UInput type="email" v-model="formState.email" class="ui_input" @blur="validateEmail">
+                </UInput>
+                <p v-if="formState.errors.email" class="error">{{ formState.errors.email }}</p>
               </UFormGroup>
 
               <UFormGroup name="phone" label="Phone Number">
-                <UInput type="text" v-model="formState.phone" class="ui_input"></UInput>
+                <UInput type="text" v-model="formState.phone" class="ui_input" @blur="validatePhone">
+                </UInput>
+                <p v-if="formState.errors.phone" class="error">{{ formState.errors.phone }}</p>
               </UFormGroup>
 
               <UFormGroup name="reasonForEnquiry" label="Reason for Enquiry">
                 <USelect v-model="formState.reasonForEnquiry" :options="enquiryOptions" class="ui_select"></USelect>
+                <p v-if="formState.errors.reasonForEnquiry" class="error">{{ formState.errors.reasonForEnquiry }}</p>
               </UFormGroup>
 
               <UFormGroup name="message" label="Message">
-                <UTextarea type="text" v-model="formState.message" class="ui_input"></UTextarea>
+                <UTextarea type="text" v-model="formState.message" class="ui_input" minlength="5" required
+                  @blur="validateMessage">
+                </UTextarea>
+                <p v-if="formState.errors.message" class="error">{{ formState.errors.message }}</p>
               </UFormGroup>
 
               <UButton class="mt-4" type="submit">SUBMIT</UButton>
-            </UForm>
+            </form>
           </UCard>
         </UContainer>
       </div>
     </div>
+    <transition name="fade">
+      <div v-if="showMessage" class="popup-message">
+        {{ messageContent }}
+      </div>
+    </transition>
   </section>
 
   <Footer></Footer>
 </template>
 
+
 <script setup lang="ts">
 //@ts-ignore
 import { ref } from 'vue';
-//@ts-ignore
-import { z } from 'zod'
-//@ts-ignore
-import type { FormSubmitEvent } from '#ui/types'
-import { ContactvalidationSchema } from "~/schemas/contactSchema";
 
-const formState = ref({
+const initialFormState = {
   firstName: '',
   lastName: '',
   email: '',
   phone: '',
   reasonForEnquiry: '',
   message: '',
-});
+  errors: {
+    firstName: '',
+    lastName: '',
+    email: '',
+    phone: '',
+    reasonForEnquiry: '',
+    message: ''
+  }
+};
+
+const formState = ref({ ...initialFormState });
+
+const showMessage = ref(false);
+const messageContent = ref('');
 
 const enquiryOptions = [
   { value: '', text: 'Select a reason' },
@@ -90,14 +115,125 @@ const enquiryOptions = [
   { value: 'other', text: 'other' }
 ];
 
-function handleFormSubmit(event: FormSubmitEvent<any>) {
-  const formData = event.data as z.output<typeof ContactvalidationSchema>;
+const validateFirstName = () => {
+  if (!formState.value.firstName) {
+    formState.value.errors.firstName = 'First Name is required.';
+  } else if (!/^[a-zA-Z']{4,}$/.test(formState.value.firstName)) {
+    formState.value.errors.firstName = 'First Name must be at least 4 characters and contain only letters.';
+  } else {
+    formState.value.errors.firstName = '';
+  }
+};
 
-  console.log(formData);
-}
+const validateLastName = () => {
+  if (!formState.value.lastName) {
+    formState.value.errors.lastName = 'Last Name is required.';
+  } else if (!/^[a-zA-Z']{3,}$/.test(formState.value.lastName)) {
+    formState.value.errors.lastName = 'Last Name must be at least 3 characters and contain only letters.';
+  } else {
+    formState.value.errors.lastName = '';
+  }
+};
 
+const validateEmail = () => {
+  if (!formState.value.email) {
+    formState.value.errors.email = 'Email is required.';
+  } else if (!/^[\w.-]+@[a-zA-Z\d.-]+\.[a-zA-Z]{2,}$/.test(formState.value.email)) {
+    formState.value.errors.email = 'Invalid email format.';
+  } else {
+    formState.value.errors.email = '';
+  }
+};
 
+const validatePhone = () => {
+  if (!formState.value.phone) {
+    formState.value.errors.phone = 'Phone Number is required.';
+  } else if (!/^(\+91[\-\s]?)?[0]?[789]\d{9}$/.test(formState.value.phone)) {
+    formState.value.errors.phone = 'Invalid phone number format.';
+  } else {
+    formState.value.errors.phone = '';
+  }
+};
+
+const validateMessage = () => {
+  if (!formState.value.message) {
+    formState.value.errors.message = 'Message is required.';
+  } else if (formState.value.message.length < 5) {
+    formState.value.errors.message = 'Message must be at least 5 characters.';
+  } else {
+    formState.value.errors.message = '';
+  }
+};
+
+const validateForm = () => {
+  validateFirstName();
+  validateLastName();
+  validateEmail();
+  validatePhone();
+  validateMessage();
+  return !Object.values(formState.value.errors).some(error => error !== '');
+};
+
+const googleScriptURL = 'https://script.google.com/macros/s/AKfycbzNKlZ6Zd6DLTh-uTWRJXUEfvktMPp2H42qpG3jbfcgAs6Qs1RdOfg32mgaf5NY4kpBXA/exec';
+
+const handleFormSubmit = async (event: Event) => {
+  event.preventDefault();
+
+  if (!validateForm()) {
+    console.log('Form validation failed.');
+    return;
+  }
+
+  const formData = new FormData();
+  formData.append('firstName', formState.value.firstName);
+  formData.append('lastName', formState.value.lastName);
+  formData.append('email', formState.value.email);
+  formData.append('phone', formState.value.phone);
+  formData.append('reasonForEnquiry', formState.value.reasonForEnquiry);
+  formData.append('message', formState.value.message);
+
+  try {
+    const response = await fetch(googleScriptURL, {
+      method: 'POST',
+      body: formData,
+    });
+
+    const textResponse = await response.text();
+    if (textResponse.includes('successfully sent')) {
+      console.log('Data sent to Google Sheets:', textResponse);
+      displayPopupMessage(textResponse);
+      resetForm();
+    } else {
+
+      try {
+        const result = JSON.parse(textResponse);
+        console.log('Data sent to Google Sheets:', result);
+        displayPopupMessage('Your message was successfully add to the Google Sheets database!');
+        resetForm();
+      } catch (jsonError) {
+        console.error('Error parsing JSON response:', jsonError, 'Response:', textResponse);
+        displayPopupMessage('Error parsing JSON response. Please try again.');
+      }
+    }
+  } catch (error) {
+    console.error('Error sending data to Google Sheets:', error);
+    displayPopupMessage('Error sending data. Please try again.');
+  }
+};
+
+const resetForm = () => {
+  formState.value = { ...initialFormState };
+};
+
+const displayPopupMessage = (message: string) => {
+  messageContent.value = message;
+  showMessage.value = true;
+  setTimeout(() => {
+    showMessage.value = false;
+  }, 4000);
+};
 </script>
+
 
 <style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
@@ -121,5 +257,28 @@ function handleFormSubmit(event: FormSubmitEvent<any>) {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.popup-message {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background-color: #44c767;
+  color: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  transition: opacity 0.5s;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
 }
 </style>
