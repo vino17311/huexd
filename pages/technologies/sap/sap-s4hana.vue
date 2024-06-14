@@ -141,7 +141,15 @@ html {
 .hero__technologies {
     padding-top: 20px;
 }
-
+.section_one_img_container {
+    width: 100%;
+    height: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 13px;
+    overflow: hidden;
+}
 .hero__technologies1 {
     padding-top: 10px;
     padding-bottom: 10px;
