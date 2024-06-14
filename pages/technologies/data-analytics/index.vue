@@ -274,7 +274,15 @@ html {
     border-radius: 5px;
 
 }
-
+.section_one_img_container {
+    width: 100%;
+    height: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 13px;
+    overflow: hidden;
+}
 .cta-button:hover {
     background-color: #3F4FFF;
 
