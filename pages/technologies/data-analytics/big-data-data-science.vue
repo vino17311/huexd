@@ -175,7 +175,15 @@ html {
     border-color: #051AD0;
 
 }
-
+.section_one_img_container {
+    width: 100%;
+    height: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 13px;
+    overflow: hidden;
+}
 .c-breadcrumb__item.--current a {
     color: #051AD0;
 }
