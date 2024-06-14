@@ -258,7 +258,15 @@ html {
     margin-right: 5px;
     font-size: 15px;
 }
-
+.section_one_img_container {
+    width: 100%;
+    height: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 13px;
+    overflow: hidden;
+}
 .c-breadcrumb__item a {
     color: #333;
     text-decoration: none;
