@@ -500,7 +500,15 @@ html {
     background-position: 30px center;
     background-size: 35px;
 }
-
+.section_one_img_container {
+    width: 100%;
+    height: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 13px;
+    overflow: hidden;
+}
 ul {
     padding: 0px;
     margin-top: 30px;
