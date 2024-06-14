@@ -289,7 +289,15 @@ html {
     height: 100%;
     object-fit: cover;
 }
-
+.section_one_img_container {
+    width: 100%;
+    height: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 13px;
+    overflow: hidden;
+}
 
 .c-panels__inner {
     padding: var(--inner-padding, 0 20px);
