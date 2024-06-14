@@ -30,7 +30,7 @@
   </section>
 
 
-  <section class="bg-blue-500 who_we_are text-white text-sm">
+  <section class="bg-blue-500 who_we_are text-white sm:text-2px">
     <div class="container mx-auto">
       <h6 class="font-bold mb-4 who_we">WHO WE ARE</h6>
       <p class="m-0 who_we_para">
@@ -69,7 +69,7 @@
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pt-2 pb-2">
             <div class="grid-item">
               <img
-                src="https://s3-alpha-sig.figma.com/img/4d9c/45dd/c2c81f6087f8df018ec2a049f0722650?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=elzVJrR-ptCwjCBJSZqSl8bB~Bh~nDDX14hHLMo5fENvY6G4H3EbMHNDpnfE~L866UDakoOBwkOQmQldLvqbyJMBZmVEHhaYOzJ4l~zR0E2X1lsTqhgKJAj3THNtGe6t0Dp-c1~0W5rSTFZ8vqZ-Gu4Gpt7723M3BzLCE8vHRhfFdE4g0wCsw64Vi6oOjtV24N6k3UpJeajZ53d9pRClXIrpemHEwESi2srJcpeWcRvFayVXwsXIB3LkKmGhflBVs4xBaCch8z0ZLQwoiA7i0EeRWUXckQQ72uS8ge4~JUkmYQsapatHnXw3-HOA-WM2KcGk3xwlHdX2yw2UwAuC5w__"
+                src="https://s3-alpha-sig.figma.com/img/4d9c/45dd/c2c81f6087f8df018ec2a049f0722650?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Qky5dU-cqFstsXzfZVCMwLOA3zdMuYt4fbVI7GY4fbSrjX7MSqVAbl3dQhJCvs8NcyuPIYJ9bJD02BFVjLrelNNAkj82GTJtSydSi7ppvIBmhZXzBhLwIREt~eEK01uTalXwaLWBLv-~dfXKLCKrwMbYA2INFSW~1LRJlxqmJtFJ8wGI74sCo-HMvfRycTQ62x20h1nQMHOHruVhSlELij1V9qlml3qgzywfkCF5SmaOpoUSfDOkbExOk-P5~mz3YYm6gkVJTKFgxh4pr1m53pekckMmLgwXjP5IhXAnqjeb6WiX6L3QocF~8eKLcoXeNhtzWZq2Yw8pvq2KK-o8DQ__"
                 alt="Expertise Image" class="grid-img-1 rounded-lg">
             </div>
           </div>
@@ -90,7 +90,7 @@
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 order-sm-2 order-md-1 h-100 mb-4">
             <div class="grid-item d-flex align-items-center justify-content-center h-100">
               <img
-                src="https://s3-alpha-sig.figma.com/img/f657/110a/214f47e27bce6ccd7a894c018ec7a03e?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=o0uZ6o4WbZlC6EqbZaW8dadIvFfCFYYeLBgC6lsHOyVJdccc1BcbQcRq7GAylq0YwUjNLLvfbOPZDJh5b8eV13mK8g3xVCpMzxDsdmeHKdcRV3IdsbYQY2wjStA9VQDjbkgFeqWKxqDUtATl6pMVqyi~plokAaIlB0w3RTIjcP7cGFa9qkKNB-Ck7p3xvzGYSAlUVTGTx2njp3v~GichRj6L4L1CLsoA6tKQJNrOXUBCFfuK4cLQStNlK7f~XKzbGZkFwMjVrF2VMx~RN~fq1qsrJpgkawTz6d9MtCHxnNVitjqtvtsJ-tIyQ4cfrLOKCJLH0cKL1IBbbyjydfFSfA__"
+                src="https://s3-alpha-sig.figma.com/img/f657/110a/214f47e27bce6ccd7a894c018ec7a03e?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RpXceRX4qIH9VOTq1-Df~xuSqHk46k8ENhHRNZRUeQho~Lz9EfIgcg~Y~CTzcknqJg1OtgZEmQMAttvf8acGw9uvOmJiZaoloBl0T73oix~qBAb8H9E4XkxtDLAuETsXc6KZ-8NGY-dDf6qdeMrfREQs9vWPYd~R7jPEQEga77t7Ekf~yosq-ODZGOANNcMCszdNOqA36dRO2v8z94DaQDkbPhrltoFgDO~oADNe5DUSwzJl7uq-CGgOC7NosApzezK22yT8mFfuJaLNYIR9OWsoHjBizhyvwXahFxG46bLMzEXt3U8G~TpPhzyEy-Rb5dmrT6CEVsv1evvmX83blA__"
                 alt="Expertise Image" class="grid-img-2 rounded-lg">
             </div>
           </div>
@@ -117,7 +117,8 @@
         <div class="col-12">
           <div class="d-flex">
             <div>
-              <img src="https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg"
+              <img
+                src="https://s3-alpha-sig.figma.com/img/f657/110a/214f47e27bce6ccd7a894c018ec7a03e?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RpXceRX4qIH9VOTq1-Df~xuSqHk46k8ENhHRNZRUeQho~Lz9EfIgcg~Y~CTzcknqJg1OtgZEmQMAttvf8acGw9uvOmJiZaoloBl0T73oix~qBAb8H9E4XkxtDLAuETsXc6KZ-8NGY-dDf6qdeMrfREQs9vWPYd~R7jPEQEga77t7Ekf~yosq-ODZGOANNcMCszdNOqA36dRO2v8z94DaQDkbPhrltoFgDO~oADNe5DUSwzJl7uq-CGgOC7NosApzezK22yT8mFfuJaLNYIR9OWsoHjBizhyvwXahFxG46bLMzEXt3U8G~TpPhzyEy-Rb5dmrT6CEVsv1evvmX83blA__"
                 alt="profile img" class="profile__image">
             </div>
             <div class="ps-2">
@@ -227,9 +228,9 @@
       </div>
     </div>
   </section>
-  <section>
-    <Footer></Footer>
-  </section>
+
+  <Footer></Footer>
+
 </template>
 
 <script>
@@ -271,8 +272,9 @@ html {
 .who_we_are {
   background: #1228C4;
   color: #fff;
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding: 120px 0px 120px 0px;
+  border-radius: 2px;
+  gap: 40px;
 }
 
 .section_one_img_container {
@@ -341,6 +343,10 @@ a:hover {
   font-size: 36px;
   font-weight: 500;
   line-height: 50.4px;
+  padding: 0px 150px 0px 0px;
+  gap: 10px;
+  opacity: 10px;
+
 }
 
 .grid-img-1 {
