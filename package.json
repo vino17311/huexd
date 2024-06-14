@@ -14,6 +14,7 @@
     "@formkit/nuxt": "^1.6.2",
     "@headlessui/vue": "^1.7.20",
     "@nuxt/ui": "^2.16.0",
+    "@rollup/rollup-linux-x64-gnu": "^4.18.0",
     "@vee-validate/zod": "^4.12.8",
     "@vueuse/core": "^10.10.0",
     "axios": "^1.7.2",
