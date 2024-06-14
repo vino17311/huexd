@@ -191,7 +191,15 @@ html {
     margin-bottom: 100px;
     text-align: right;
 }
-
+.section_one_img_container {
+    width: 100%;
+    height: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 13px;
+    overflow: hidden;
+}
 .main-content p {
     color: #333;
     font-size: 18px;
