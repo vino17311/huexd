@@ -15,6 +15,7 @@
     "@headlessui/vue": "^1.7.20",
     "@nuxt/ui": "^2.16.0",
     "@vee-validate/zod": "^4.12.8",
+    "@vueuse/core": "^10.10.0",
     "axios": "^1.7.2",
     "dotenv": "^16.4.5",
     "formkit": "^1.6.2",
