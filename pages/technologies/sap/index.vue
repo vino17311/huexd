@@ -109,7 +109,6 @@ export default {
 };
 </script>
 <style>
-/* head and hero image and bread crum css start */
 html {
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
