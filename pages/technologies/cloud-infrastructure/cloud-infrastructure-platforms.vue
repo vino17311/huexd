@@ -332,7 +332,15 @@ ul {
     margin-bottom: 2rem;
     position: relative;
 }
-
+.section_one_img_container {
+    width: 100%;
+    height: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 13px;
+    overflow: hidden;
+}
 .c-accordion__item-title {
     padding: 2.0rem 7rem 2.0rem 3.4rem;
     color: #e11932;
