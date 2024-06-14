@@ -207,7 +207,6 @@ export default {
 
 <style scoped>
 @import url("https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css");
-@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js');
 
 html {
     -webkit-text-size-adjust: 100%;
@@ -405,5 +404,15 @@ ul {
 .c-accordion-item {
     padding: 1.9rem;
     color: #c4132e;
+}
+
+.section_one_img_container {
+    width: 100%;
+    height: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 13px;
+    overflow: hidden;
 }
 </style>
